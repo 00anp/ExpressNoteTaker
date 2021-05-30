@@ -1,4 +1,5 @@
 # Express Note Taker
+Deployed app: https://arcane-falls-88442.herokuapp.com/
 ## Table of Contents
 *[Description](#description)
 *[Installation](#installation)
@@ -17,7 +18,7 @@ The following images show the web application's appearance and functionality:
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
 
 ## Installation
-No installation is required.
+No installation is required. Link to full application ready to use https://arcane-falls-88442.herokuapp.com/
 ## Usage
 When you are in the app, click the "Get Started" button, then the "+" button to create a new note, with the save button you can save the note you created. After that you can delete the note with the "Trash Can" button.
 ## Contributions
@@ -26,7 +27,3 @@ No contributions at the moment.
 No tests where created for this app.
 ## License
 The MIT License
-## Questions
-If you have questions about this project pleas contact me:
-GitHub: https://github.com/00anp/
-E-mail: alfonso.nunez29@gmail.com
